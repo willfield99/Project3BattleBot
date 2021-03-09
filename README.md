@@ -1,5 +1,2 @@
 
-Alex Wood
-
-Cora Wagner
-
+# Project3BattleBot-- Artificial Intelligents
